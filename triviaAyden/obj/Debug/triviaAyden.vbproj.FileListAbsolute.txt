@@ -1,0 +1,10 @@
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\projectsAyden\triviaAyden\triviaAyden\bin\Debug\triviaAyden.exe.config
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\projectsAyden\triviaAyden\triviaAyden\bin\Debug\triviaAyden.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\projectsAyden\triviaAyden\triviaAyden\bin\Debug\triviaAyden.pdb
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\projectsAyden\triviaAyden\triviaAyden\bin\Debug\triviaAyden.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\projectsAyden\triviaAyden\triviaAyden\obj\Debug\triviaAyden.Form1.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\projectsAyden\triviaAyden\triviaAyden\obj\Debug\triviaAyden.Resources.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\projectsAyden\triviaAyden\triviaAyden\obj\Debug\triviaAyden.vbproj.GenerateResource.Cache
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\projectsAyden\triviaAyden\triviaAyden\obj\Debug\triviaAyden.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\projectsAyden\triviaAyden\triviaAyden\obj\Debug\triviaAyden.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\projectsAyden\triviaAyden\triviaAyden\obj\Debug\triviaAyden.pdb
